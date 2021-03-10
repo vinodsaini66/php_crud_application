@@ -1,0 +1,14 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 4.6.6deb5ubuntu0.5
+ */
+
+// Database 'vinod'
+
+// vinod.test
+
+[{"name":"John","age":"2"}]
+
+// vinod.user_data
+
+[{"id":"4","fname":"ravi","lname":"Saini ","email":"test@gmail.com","cnumber":"8233639160 ","place":"Jaipur ","date":"2021-03-11 "}, {"id":"5","fname":"Vinod 8","lname":"Saini","email":"vinod2015cs@gmail.com","cnumber":"7372968868","place":"mumbai","date":"2021-03-12"}, {"id":"6","fname":"aditya","lname":"yadav","email":"vinod2015cs@gmail.com","cnumber":"7372968868","place":"bihar","date":"2021-03-11"}, {"id":"10","fname":"","lname":"","email":"","cnumber":"","place":"","date":"2021-03-01"}, {"id":"11","fname":"","lname":"","email":"","cnumber":"","place":"","date":"2021-03-21"}, {"id":"12","fname":"","lname":"","email":"","cnumber":"","place":"","date":"2021-03-02"}]
